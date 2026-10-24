@@ -1,14 +1,17 @@
 # DSA-CPP
 
-A hands-on collection of Data Structures and Algorithms implemented in C and C++ for learning and practice.
+A collection of Data Structures and Algorithms implemented in C and C++ for learning, practice, and interview preparation.
 
-This repository contains several classic sorting and searching implementations, designed to help beginners understand algorithm logic, time complexity, and basic programming patterns in C/C++.
+This repository includes beginner-friendly implementations of core sorting and searching algorithms, with a focus on readability, understanding, and fundamental algorithmic concepts.
 
 ## Overview
 
-The goal of this project is to practice fundamental DSA concepts using simple, readable programs.
+The goal of this project is to help learners understand how common data structures and algorithms work by studying simple, practical implementations in C and C++.
 
-Included implementations:
+This repository is ideal for students, beginners, and anyone looking to strengthen their problem-solving and coding skills.
+
+## Included Algorithms
+
 - Quick Sort in C
 - Selection Sort in C
 - Insertion Sort in C
