@@ -1,10 +1,19 @@
 # DSA-CPP
 
-A collection of beginner-friendly C and C++ programs covering common data structures and algorithms for learning, practice, and interview preparation.
+A curated collection of beginner-friendly C and C++ programs focused on core data structures and algorithms. This repository is designed for learning, practice, and interview preparation.
 
-This repository includes simple implementations of sorting and searching algorithms, along with a small example demonstrating the use of structures in C++.
+It includes clear implementations of common sorting and searching techniques, along with a simple example demonstrating the use of structures in C++.
 
-## Contents
+## Overview
+
+The repository covers foundational concepts such as:
+
+- Sorting algorithms
+- Searching techniques
+- Data structure basics
+- Structured data handling in C++
+
+## Included Programs
 
 - Quick Sort in C
 - Selection Sort in C
