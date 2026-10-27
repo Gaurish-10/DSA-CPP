@@ -4,28 +4,37 @@ A beginner-friendly collection of C and C++ programs focused on core data struct
 
 ## Overview
 
-Languages
+This project provides simple, readable, and practical implementations of fundamental data structures and algorithms in C and C++. It is intended for students, beginners, and anyone looking to strengthen their understanding of problem-solving and programming fundamentals.
 
-C
-C++
-Purpose
+## Languages
 
-The goal of this repository is to make fundamental data structures and algorithms easier to understand through clear, beginner-focused code examples.
+- C
+- C++
 
-How to use
+## Purpose
 
-Compile and run any C or C++ file with a standard compiler.
+The goal of this repository is to make common data structures and algorithms easier to understand through clear, beginner-focused code examples and implementations.
 
-C++ example
+## How to Use
 
-bash
+Compile and run any C or C++ file using a standard compiler.
+
+### C++ Example
+
+```bash
 g++ BSiterative.cpp -o BSiterative
 ./BSiterative
-C example
 
-bash
-gcc quicksort.c -o quicksort
-./quicksort
+Topics Covered
+
+Sorting algorithms
+Searching algorithms
+Arrays
+Linked lists
+Stacks and queues
+Trees
+Graphs
+Problem-solving exercises
 Notes
 
-This repository is ideal for students and beginners who want to practice coding fundamentals in C and C++.
+This repository is ideal for students and beginners who want to practice coding fundamentals in C and C++ while building a strong foundation in data structures and algorithms.
